@@ -1,0 +1,6 @@
+[submodule "apps/client"]
+	path = apps/client
+	url = git@github.com:maver1cus/finace-client.git
+[submodule "apps/api"]
+	path = apps/api
+	url = git@github.com:maver1cus/finance-api.git
